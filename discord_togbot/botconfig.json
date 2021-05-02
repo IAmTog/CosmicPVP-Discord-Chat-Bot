@@ -1,0 +1,72 @@
+
+
+
+
+{
+    "discordBotToken": "",
+    "prefix" :"!",
+    "consoleClientToken": "",
+    "port": 8080,
+
+    "atEveryone": [
+        "* 5x Cosmo-Slot Bot Ticket",
+        "<Interstellar> Rank Orb (Right Click)",
+        "~-== Admin Blade Box ==-~",
+        "* 1x Heroic Magic Dust",
+        "* 1x Mastery Magic Dust"
+    ],
+
+
+    "images":{
+        "bah": "https://i.imgur.com/RcnEWYI.png",
+        "slots": "https://i.imgur.com/LwHya4f.png",
+        "interstellar": "https://i.imgur.com/ijyyjXQ.png"
+    },
+
+    "channels": {
+        "lava":{
+            "serverName": "Lava",
+            "serverImage": "https://i.imgur.com/w2GF3aW.png",  
+
+            "bah": {
+
+            },
+            "slots": {
+
+            },
+            "interstellar":{
+                "InterstellarLounge": {"channelID": "","roleID": "", "mentionOnKeyword": true}
+
+            }
+        },
+        "jungle":{
+            "serverName": "Jungle",
+            "serverImage": "https://i.imgur.com/71AvlGm.png",  
+            "bah": {
+
+            },
+            "slots": {
+
+            },
+            "interstellar":{
+                "InterstellarLounge": {"channelID": "","roleID": "", "mentionOnKeyword": true}
+
+            }
+        },
+        "dungeon":{
+            "serverName": "Dungeon",
+            "serverImage": "https://i.imgur.com/b0u6kjD.png",  
+            "bah": {
+
+            },
+            "slots": {
+
+            },
+            "interstellar":{
+                "InterstellarLounge": {"channelID": "","roleID": "", "mentionOnKeyword": true}
+
+            }
+        }
+    }
+
+}

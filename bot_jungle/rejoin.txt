@@ -1,0 +1,3 @@
+send /server jungleplanet
+wait 10
+send /ping

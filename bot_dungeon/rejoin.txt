@@ -1,0 +1,3 @@
+send /server dungeonplanet
+wait 10
+send /ping
