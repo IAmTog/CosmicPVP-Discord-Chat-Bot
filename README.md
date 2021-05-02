@@ -3,7 +3,7 @@
 
 ### Bot Setup
 1. Install npm onto your system, you may also need to install nodeJS. https://www.npmjs.com
-2. Run the command npm install in the console to install the node packages.
+2. Run the command "npm install" in the console to install the node packages.
 3. Open botconfig.json in a text editor.
 4. Fill out fields in the configuration file. 
   1. Discord token needs to be the discord bot token setup on: https://discord.com/developers.
